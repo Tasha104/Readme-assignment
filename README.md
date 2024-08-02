@@ -12,7 +12,7 @@ Capacity Planning: By analyzing logs, organizations can better understand resour
 
 Cost Management: By tracking resource usage and identifying unused or underused resources, organizations can optimize costs.
 
-##Understanding logging levels.
+### Understanding logging levels.
 Logging levels, also known as log levels, are categories that represent the severity or importance of events recorded in logs.
 DEBUS;
 Purpose: Used for detailed diagnostic information. This level is primarily intended for development and debugging and often includes granular information about the system's state.
